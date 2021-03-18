@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "913150373138",
+    "project_id": "fir-tutorial-cb989",
+    "storage_bucket": "fir-tutorial-cb989.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913150373138:android:8793f4537cf88a79db17cb",
+        "android_client_info": {
+          "package_name": "com.politecnico.firebasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913150373138-ur0fvov0klvmpc3uohuqpq9cs05nof31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.politecnico.firebasetutorial",
+            "certificate_hash": "762b3312bbf79284d0b7b12cb2f9b149ad4782db"
+          }
+        },
+        {
+          "client_id": "913150373138-7ejkak1hca874meuvpf3nh0hgoq6fols.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5rqpEEGoEWccjHx1ugwNYLoPmP9kRiQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913150373138-7ejkak1hca874meuvpf3nh0hgoq6fols.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
